@@ -1,10 +1,9 @@
 ---
 layout: single
 classes: wide
-title: About Me
+title: Welcome to My Digital Corner
 permalink: /about/
 ---
-# Welcome to My Digital Corner
 
 Hello, dear reader, and thank you for stopping by. If you've found your way here, you're likely someone with a keen interest in the evolving world of technology, just like me. My name is **Jairam**, and this space is a reflection of my journey through the intricate maze of data and distributed engineering, my explorations in **machine learning and GenAI**, and the occasional detour into the realms of leadership, productivity, and, of course, some cinematic adventures.
 
