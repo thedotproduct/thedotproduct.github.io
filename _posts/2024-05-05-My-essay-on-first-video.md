@@ -1,11 +1,11 @@
 ---
+title: My essay on the first video of the neural network from zero to hero
 layout: single
 classes:
  - wide
-title: My essay on the first video of the neural network from zero to hero
-excerpt: Im creating these posts to show case my learning and intuition
 header:
- - overlay_color:"#818181"
+ - overlay_color:"#181"
+excerpt: Im creating these posts to show case my learning and intuition
 ---
 
 ## Introduction
