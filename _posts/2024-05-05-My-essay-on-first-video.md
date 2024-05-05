@@ -5,7 +5,7 @@ layout: splash
 classes:
   wide
 header:
-  overlay_color: "#181"
+  overlay_color: "#818181"
 
 ---
 
@@ -16,3 +16,33 @@ Welcome to my first blog post on my journey into deep learning! I am currently e
 As I navigate these resources, I frequently encounter challenging concepts and find myself reflecting on many "why" questions. This blog serves as a space to document these queries and my thoughts, providing a roadmap for others who might face similar hurdles.
 
 The goal of these essays is to assist others who encounter the same questions and obstacles in their learning journey. I am leveraging ChatGPT to assist with note-taking, generating questions, and coding challenges. Moreover, the content of this blog is refined with the help of a custom ChatGPT persona, ensuring clarity and depth. Join me as we decode the complexities of deep learning together!
+
+## Import Chapters 
+
+1. Introduction to the lecture and the concept of training deep neural networks.
+2. Overview of the Micrograd library and its purpose in implementing backpropagation.
+3. Explanation of backpropagation and its role in modern deep neural network libraries.
+4. Demonstration of building a simple mathematical expression using Micrograd.
+5. Explanation of the forward pass and the evaluation of the output value.
+6. Introduction to the backward pass and the concept of automatic differentiation.
+7. Explanation of how backpropagation calculates the derivative of the output with respect to the inputs.
+8. Discussion on how the derivatives can be used to understand the impact of inputs on the output.
+9. Explanation of how neural networks are just mathematical expressions.
+10. Discussion on the use of scalars and tensors in Micrograd for pedagogical reasons.
+11. Explanation of the simplicity of Micrograd's code.
+
+## Supporting Reading Materials
+
+1. Backpropagation Mechanism By Andrej
+   1. [cs231n Backpropagation video](https://www.youtube.com/watch?v=i94OvYb6noo)
+   2. [cs231 Notes on Backpropagation](https://cs231n.github.io/optimization-2/)
+   3. [Automatic Differentiation Inutition : Why graph based Backpropagation](https://www.youtube.com/watch?v=wG_nF1awSSY)
+      This is a must a watch video to understand why state of the libraries follow the automatic (graph based) technique.
+   4. [calculus on computational graph by colah blog](https://colah.github.io/posts/2015-08-Backprop/) 
+      This is a classic article where you will get to know why backward propagation makes sense. Same point is being clarified in the video number 3 as well.
+2. Magic Methods for objects
+   1. [Corey Schafer video on magic methods](https://www.youtube.com/watch?v=3ohzBxoFHAY)
+3. Activation Function Impact visualization
+   1. [Part1 by Vcubingx](https://www.youtube.com/watch?v=UOvPeC8WOt8)
+   2. [Part2 by Vcubingx](https://www.youtube.com/watch?v=-at7SLoVK_I)
+4. [Official Pytorch tutorial on tensors and basic operations](https://www.youtube.com/watch?v=r7QDUPb2dCM)
