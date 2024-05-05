@@ -5,7 +5,7 @@ layout: splash
 classes:
   wide
 header:
-  overlay_color: "#818181"
+  overlay_color: "#5f9ea0"
 
 ---
 
@@ -17,7 +17,7 @@ As I navigate these resources, I frequently encounter challenging concepts and f
 
 The goal of these essays is to assist others who encounter the same questions and obstacles in their learning journey. I am leveraging ChatGPT to assist with note-taking, generating questions, and coding challenges. Moreover, the content of this blog is refined with the help of a custom ChatGPT persona, ensuring clarity and depth. Join me as we decode the complexities of deep learning together!
 
-## Import Chapters 
+## Important Chapters 
 
 1. Introduction to the lecture and the concept of training deep neural networks.
 2. Overview of the Micrograd library and its purpose in implementing backpropagation.
@@ -34,15 +34,19 @@ The goal of these essays is to assist others who encounter the same questions an
 ## Supporting Reading Materials
 
 1. Backpropagation Mechanism By Andrej
-   1. [cs231n Backpropagation video](https://www.youtube.com/watch?v=i94OvYb6noo)
-   2. [cs231 Notes on Backpropagation](https://cs231n.github.io/optimization-2/)
-   3. [Automatic Differentiation Inutition : Why graph based Backpropagation](https://www.youtube.com/watch?v=wG_nF1awSSY)
+   1. [cs231n backpropagation video](https://www.youtube.com/watch?v=i94OvYb6noo)
+   2. [cs231 notes on backpropagation](https://cs231n.github.io/optimization-2/)
+   3. [automatic differentiation inutition : why graph based backpropagation](https://www.youtube.com/watch?v=wG_nF1awSSY)
+
       This is a must a watch video to understand why state of the libraries follow the automatic (graph based) technique.
+
    4. [calculus on computational graph by colah blog](https://colah.github.io/posts/2015-08-Backprop/) 
+
       This is a classic article where you will get to know why backward propagation makes sense. Same point is being clarified in the video number 3 as well.
+
 2. Magic Methods for objects
    1. [Corey Schafer video on magic methods](https://www.youtube.com/watch?v=3ohzBxoFHAY)
-3. Activation Function Impact visualization
-   1. [Part1 by Vcubingx](https://www.youtube.com/watch?v=UOvPeC8WOt8)
-   2. [Part2 by Vcubingx](https://www.youtube.com/watch?v=-at7SLoVK_I)
+3. Activation Function Impact Visualization
+   1. [part1 by vcubingx](https://www.youtube.com/watch?v=UOvPeC8WOt8)
+   2. [part2 by vcubingx](https://www.youtube.com/watch?v=-at7SLoVK_I)
 4. [Official Pytorch tutorial on tensors and basic operations](https://www.youtube.com/watch?v=r7QDUPb2dCM)
