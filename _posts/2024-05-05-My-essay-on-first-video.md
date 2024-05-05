@@ -1,7 +1,7 @@
 ---
 title: "My essay on the first video of the neural network from zero to hero"
 excerpt: Im creating these posts to show case my learning and intuition
-layout: single
+layout: splash
 classes:
  - wide
 header:
